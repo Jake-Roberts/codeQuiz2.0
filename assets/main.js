@@ -1,3 +1,16 @@
+function startQuiz(){
+
+}
+
+function nextQuestion(){
+
+}
+
+function selectAnswer(){
+    
+}
+
+
 const myQuestions = [
     {
         question: 'What is the greatest video game of all time?',
